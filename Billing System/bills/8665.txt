@@ -1,0 +1,13 @@
+	Welcome Grocery Retail
+Bill Number:8665
+Customer Name:
+Phone Number
+================================
+Products		QTY		Price
+ Sanitizer		10		0
+ Mask		10		50
+ Medical Tax			Rs. 2.5
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.52.5
+--------------------------------
